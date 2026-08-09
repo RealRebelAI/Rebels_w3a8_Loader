@@ -1,8 +1,8 @@
 # Rebels_w3a8_Loader
 
-## WIP!!!!!! Comfy Kitchen is blocking this from running native so i had to convert the loader to run this format as only w4a8 is available to run. you need this loader to run this w3a8 format.
+## WIP!!!!!! handles w4a8 and w4a4 formats
 
-a simpler loader node to house the new format w3a8 im working on.
+a simpler loader node to house the new format for w4a8
 
 # must be on pr update:
 
